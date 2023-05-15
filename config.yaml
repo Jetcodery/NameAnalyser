@@ -1,0 +1,20 @@
+NameInfo:
+  LastName: '李'
+  FirstName0: ['芃', '蓁']
+  FirstName1: ['澄', '泽', '沐', '朔', '浚']
+
+BirthInfo:
+  DateType: '阳历'
+  Year: 2023
+  Month: 5
+  Day: 20
+  Hour: 18
+  Minute: 27
+  BirthProvince: '上海'
+  BirthCity: '上海'
+  Sex: '男'
+  RealSunTime: '否'
+
+Runner:
+  SleepTime: 1
+  OutputDir: 'output3'

@@ -1,0 +1,9 @@
+numpy==1.19.2
+dill==0.3.4
+selenium==3.141.0
+requests==2.22.0
+hanzidentifier==1.1.0
+pypinyin==0.48.0
+zhon==1.1.5
+beautifulsoup4==4.12.2
+PyYAML==6.0
