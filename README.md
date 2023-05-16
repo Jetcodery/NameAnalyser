@@ -6,7 +6,7 @@
 
 1、Python3.6及以上
 
-2、因为需要模拟浏览器行为，selenium需要浏览器驱动，仅测试过Chrome浏览器，需注意浏览器版本号，在https://chromedriver.storage.googleapis.com/index.html中查找对应版本号的chromedriver，下载后放置于python解析器的同目录下（使用which python获得路径，如：/path/to/anaconda3/envs/Jet_python3/bin/python, 则应放置于bin目录下）
+2、因为需要模拟浏览器行为，selenium需要浏览器驱动，仅测试过Chrome浏览器，需注意浏览器版本号，在 https://chromedriver.storage.googleapis.com/index.html 中查找对应版本号的chromedriver，下载后放置于python解析器的同目录下（使用which python获得路径，如：/path/to/anaconda3/envs/Jet_python3/bin/python, 则应放置于bin目录下）
 
 3、环境安装，依赖版本参考requirements.txt：
 
@@ -53,12 +53,11 @@ Runner:
 
 1、实现过程不太严谨，未对各种边界情况做测试，比如暂时不支持四个字的名字等等，欢迎提issue进行改进；
 
-2、免责声明：脚本使用selenium对"http://life.httpcn.com/xingming.asp"进行模拟浏览访问获取信息，请勿暴力调用或用于商业盈利等；
+2、免责声明：脚本使用selenium对 http://life.httpcn.com/xingming.asp 进行模拟浏览访问获取信息，请勿暴力调用或用于商业盈利等；
 
 3、本项目仅供娱乐，产出的内容仅供参考。
 
-4、鸣谢：
-
+4、特别鸣谢：
 ```
 # https://github.com/pwxcoo/chinese-xinhua
 # https://github.com/chinese-poetry
